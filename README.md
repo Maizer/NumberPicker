@@ -1,3 +1,9 @@
+# About Maizer Fix Part Code
+
+- increase method setPreciseScrollEnable(boolean enable),can precise scroll to location
+- fix text in screen,but suddenly disappeared bug(scroll marease bug)
+- remove Scroller class.It is there in Android Source.
+
 # Number Picker
 
 The android library that provides a simple and customizable NumberPicker.
