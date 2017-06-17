@@ -1101,7 +1101,7 @@ public class NumberPicker extends LinearLayout {
 	}
 
 	/**
-	 * precise scroll offset
+	 * precise scroll offset,will scroll to precise location,
 	 * 
 	 * @param enable
 	 */
